@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    /* background-image: url(./airplane.jpg); */
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 10px;
+    margin-right:10px
+}
+
+.mainBody {
+    padding-left: 25px;
+    padding-right: 25px
+}
+
+
+
+.HeaderName {
+    font: bold;
+    font-size: 15px;
+    color: blue
+}
+
+.headerLink {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.mainBody {
+    padding: 20px;
+    margin-top: 30px
+}
+
+.landingTitle {
+    font-size: x-large;
+    font: bolder;
+}
+
+.inputClass {
+   
+}
